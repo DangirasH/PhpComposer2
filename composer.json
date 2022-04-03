@@ -1,0 +1,14 @@
+{
+    "name": "dangiras/composer2",
+    "description": "Projet quete composer",
+    "authors": [
+        {
+            "name": "Dangiras Hausmanas",
+            "email": "dan.hausmans@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"App\\Wcs\\" : "public/src/wcs"}
+    }
+}
