@@ -1,6 +1,6 @@
 
 <?php
+use \App\Wcs\Hello;
 
 require "../vendor/autoload.php";
-use \App\Wcs\Hello;
 echo Hello::talk();
